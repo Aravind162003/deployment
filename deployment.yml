@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: node-app
-        image: aravind2003/node-app:15
+        image: aravind2003/gocd:15
         ports:
         - containerPort: 3000
